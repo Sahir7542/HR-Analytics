@@ -1,5 +1,6 @@
 # HR-Analytics
-Help an organization to improve employee performance and improve employee retention (reduce attrition) by creating a HR. Analytics dashboard. 
+Help an organization to improve employee performance and improve employee retention (reduce attrition) by creating a HR. Analytics dashboard.
+
 **Steps**
 1. Prepare the data: Import the data into Power BI, clean it, and remove unnecessary columns. You can also standardize column names and merge tables. 
  
